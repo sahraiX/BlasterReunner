@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb50a83f6a8fb0b4abc31ab1ddbae5ee
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188940
+  packageName: Build & Changelog manager
+  packageVersion: 1.0
+  assetPath: Assets/com.teamon.buildmanager/Editor/BuildManager/DefaultBuildSequences.asset
+  uploadId: 419681

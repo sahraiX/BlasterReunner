@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ac737fdc351348b2bbacc0b8a187cc62
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188940
+  packageName: Build & Changelog manager
+  packageVersion: 1.0
+  assetPath: Assets/com.teamon.buildmanager/package.json
+  uploadId: 419681

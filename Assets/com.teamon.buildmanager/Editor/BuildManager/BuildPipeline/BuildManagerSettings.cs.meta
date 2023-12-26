@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf73a4e20e61f9143863e020e3cfa443
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188940
+  packageName: Build & Changelog manager
+  packageVersion: 1.0
+  assetPath: Assets/com.teamon.buildmanager/Editor/BuildManager/BuildPipeline/BuildManagerSettings.cs
+  uploadId: 419681

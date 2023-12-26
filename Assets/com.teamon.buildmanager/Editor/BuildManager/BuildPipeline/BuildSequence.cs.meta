@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7da761c09c9bf58458414eb3aed17661
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188940
+  packageName: Build & Changelog manager
+  packageVersion: 1.0
+  assetPath: Assets/com.teamon.buildmanager/Editor/BuildManager/BuildPipeline/BuildSequence.cs
+  uploadId: 419681

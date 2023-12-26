@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 152317f22371ca549818b9b6093f9a4e
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 188940
+  packageName: Build & Changelog manager
+  packageVersion: 1.0
+  assetPath: Assets/com.teamon.buildmanager/Editor/BuildManager.Editor.asmdef
+  uploadId: 419681
